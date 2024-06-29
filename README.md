@@ -11,6 +11,6 @@ pip install -r requirements.txt
 ### Running the code
 ```sh
 python image.py #for detection with images
-python video.py # or detection with video
+python video.py #for detection with video
 ```
 
