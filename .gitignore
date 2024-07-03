@@ -4,3 +4,14 @@ test1.webp
 test2.jpg
 test3.jpg
 test4.mp4
+example/test2.jpg
+example/test4.mp4
+example/model/*
+test2.py
+test.py
+model/*
+services/ObjectDetection/__pycache__/*
+services/__pycache__/*
+video.py
+object_detection.py
+image.py
